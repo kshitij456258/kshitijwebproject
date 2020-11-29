@@ -1,0 +1,2 @@
+# kshitijwebproject
+static web pages
